@@ -9,15 +9,16 @@ public class FactorialOfNumber {
         System.out.println("Please Enter a Number");
         int number = userInput.nextInt();
 
-        int factorial = 0;
+        int factorial = 1;
 
         for (int count=1;count <= number;) {
-            factorial = number * count;
 
-             number++;
-          System.out.println("factorial is " + factorial);
+            factorial =  factorial * count;
+
+             count++;
         }
 
 
+        System.out.println("factorial = " + factorial);
     }
 }
