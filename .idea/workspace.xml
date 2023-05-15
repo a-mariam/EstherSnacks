@@ -5,28 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da7c3825-b895-474a-8641-64025e8f0b04" name="Changes" comment="i,ll keep on trying">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Easter Snacks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BarchatPrintingProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckboardAesterick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChrismasSong.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DoWhileLoop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/FourPatternsUsingLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/ChecksElementOccurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/CollectNumberReturnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/EvenElementsInArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/EvenElementsInArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/OddElementsInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/OddElementsInArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/ReturnLargestInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/ReturnLargestInArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/ReversingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/ReversingArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/RuningTotalOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/RuningTotalOfArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/TakesInDigitsReturnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/May13WeekendSnacks/TestingIfAStringIsParlidrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/NumberRaisedToThePowerAnother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParlidromeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParlidromeNumbersTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ReverseMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SUMOFUSERINPUT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfUserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TriangleProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trick1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UserMultiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FactorialOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactorialOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfDigitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumUserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumUserInputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParlidromeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ParlidromeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumOfDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfNaturalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumOfNaturalNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +44,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -52,66 +62,117 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;module&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Application.SUMOFUSERINPUT">
-    <configuration name="FactorialOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactorialOfNumber" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="May13WeekendSnacks" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EvenElementsInArrays">
+    <configuration name="EvenElementsInArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="May13WeekendSnacks.EvenElementsInArrays" />
       <module name="Easter Snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="May13WeekendSnacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberTriangle" />
+    <configuration name="OddElementsInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="May13WeekendSnacks.OddElementsInArray" />
       <module name="Easter Snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="May13WeekendSnacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParlidromeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ParlidromeNumbers" />
+    <configuration name="ReversingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="May13WeekendSnacks.ReversingArray" />
       <module name="Easter Snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="May13WeekendSnacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SUMOFUSERINPUT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SUMOFUSERINPUT" />
+    <configuration name="OddElementsInArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Easter Snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="May13WeekendSnacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="May13WeekendSnacks" />
+      <option name="MAIN_CLASS_NAME" value="May13WeekendSnacks.OddElementsInArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNaturalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfNaturalNumber" />
+    <configuration name="ReturnLargestInArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Easter Snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="May13WeekendSnacks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="May13WeekendSnacks" />
+      <option name="MAIN_CLASS_NAME" value="May13WeekendSnacks.ReturnLargestInArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SUMOFUSERINPUT" />
-        <item itemvalue="Application.SumOfNaturalNumber" />
-        <item itemvalue="Application.ParlidromeNumbers" />
-        <item itemvalue="Application.NumberTriangle" />
-        <item itemvalue="Application.FactorialOfNumber" />
+        <item itemvalue="Application.EvenElementsInArrays" />
+        <item itemvalue="Application.OddElementsInArray" />
+        <item itemvalue="JUnit.OddElementsInArrayTest" />
+        <item itemvalue="JUnit.ReturnLargestInArrayTest" />
+        <item itemvalue="Application.ReversingArray" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +200,17 @@
       <workItem from="1683022849037" duration="631000" />
       <workItem from="1683047942084" duration="2103000" />
       <workItem from="1683229940149" duration="3519000" />
+      <workItem from="1683361149188" duration="3791000" />
+      <workItem from="1683368956387" duration="1793000" />
+      <workItem from="1683452478111" duration="717000" />
+      <workItem from="1683543702497" duration="1854000" />
+      <workItem from="1683597689866" duration="3175000" />
+      <workItem from="1683616105603" duration="445000" />
+      <workItem from="1683745909578" duration="2334000" />
+      <workItem from="1683823720371" duration="2822000" />
+      <workItem from="1683833016351" duration="10187000" />
+      <workItem from="1684012993423" duration="24510000" />
+      <workItem from="1684151142092" duration="2645000" />
     </task>
     <task id="LOCAL-00001" summary="i,ll keep on trying">
       <created>1681443200240</created>
@@ -147,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681443200240</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="i,ll keep on trying">
+      <created>1683826072533</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683826072533</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
