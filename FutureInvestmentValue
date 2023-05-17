@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+   public class FutureInvestmentValue{
+   
+    public static void main(String[]args){
+  
+  Scanner userInput = new Scanner(System.in);
+ 
+ System.out.println("investmentAmount");
+         double investmentAmount = userInput.nextDouble();
+ 
+ System.out.println("numberOfYears");
+       byte numberOfYears = userInput.nextByte();
+
+System.out.println("annualInterestRate");
+       float annualInterestRate = userInput.nextFloat();
+        
+  double FutureInvestmentValue = investmentAmount * Math.pow(1 * annualInterestRate,numberOfYears * 12);
+  
+  System.out.println("FutureInvestmentValue");
+  
+  }
+
+        }
+
+
+         
