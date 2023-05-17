@@ -6,7 +6,7 @@ public class MultiplicationTable {
             for (int number = 1; number <= 12; number++) {
                 multiplication = count * number;
                 System.out.printf("%d\t" , multiplication);
-            }
+             }
             System.out.println(" ");
         }
         System.out.println(" ");
@@ -19,5 +19,11 @@ public class MultiplicationTable {
                 }
                 System.out.println("");
             }
+        System.out.println("20 Multiplication");
+        int time = 0;
+     for (int count = 20; count <= 32;count++){
+       for (int con = 1;con)
+         System.out.println(count);
+     }
         }
     }

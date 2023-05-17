@@ -13,18 +13,20 @@ public class SumOfDigit {
         int thirdNumber = 0;
         int fourthNumber = 0;
 
-        int sumOfDigit = 0;
+        int sumOfDigit = 1;
         int collect = 0;
         for(int count = 1; count < 5;count++){
-            collect = count % 10;
-            if(count == 1){fourthNumber = collect;}
+            collect = number % 10;
+            if(count == 1){
+                fourthNumber = collect;}
             if(count == 2){thirdNumber = collect;}
             if(count == 3){secondNumber = collect;}
             if(count == 4){firstNumber = collect;}
 
             number =  number / 10;
         }
-        sumOfDigit = firstNumber + thirdNumber + secondNumber + firstNumber;
+
+        sumOfDigit = firstNumber + thirdNumber + secondNumber + fourthNumber;
         return sumOfDigit;
     }
 }

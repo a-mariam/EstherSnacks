@@ -11,15 +11,15 @@ public class TestingIfAStringIsParlidrome {
             System.out.println(reversed);
         System.out.println(input);
         if (reversed.equals(input)){
-            System.out.println("It's not a parlidrome");
+            System.out.println("It's a parlidrome");
         }else{
-            System.out.println("It's  a parlidrome");
+            System.out.println("It's not a parlidrome");
         }
 
     }
 
     public static void main(String[] args) {
-        String test = "man";
+        String test = "mam";
         IsStringParlidrome(test);
 
     }
