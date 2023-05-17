@@ -1,0 +1,29 @@
+import java.util.Scanner;
+     public class BMI{
+       public static void main(String[] args){
+          Scanner userInput = new Scanner(System.in);
+          
+          double kilogramPerPounds = 0.45359237;
+          double metersPerPounds = 0.0254;
+          
+     System.out.println("Enter your weight");
+         double weight = userInput.nextDouble();
+         
+         System.out.println("Enter your height");
+              double height = userInput.nextShort();
+              
+           height = height * kilogramPerPounds;
+           weight = weight * metersPerPounds;
+           
+               double BMI = weight / Math.pow(height, 2);
+               
+                 System.out.println("BMI " + BMI  + "kg/m2");
+
+
+}
+
+
+
+
+
+      }
